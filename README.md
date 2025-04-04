@@ -25,10 +25,6 @@ How to View
 1. Clone the repository to your local machine using Git.
 2. Open the `index.html` file in a web browser to view the website.
 
-License
-
-This project is licensed under the MIT License, allowing for free use, modification, and distribution.
-
 Author
 
 Nomfundo Khoza
